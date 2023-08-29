@@ -24,10 +24,10 @@
 .res-card{
     padding: 5px;
     width: 200px;
-    height: 380px;
+    height: 450px;
     background-color: #f0f0f0;
 }
-.res-card :hover{
+.res-card:hover{
     cursor: pointer;
     border: 1px solid black;
 }

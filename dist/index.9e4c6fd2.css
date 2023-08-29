@@ -28,11 +28,11 @@
 .res-card {
   background-color: #f0f0f0;
   width: 200px;
-  height: 380px;
+  height: 450px;
   padding: 5px;
 }
 
-.res-card :hover {
+.res-card:hover {
   cursor: pointer;
   border: 1px solid #000;
 }
